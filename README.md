@@ -1,10 +1,10 @@
-# Search tree
+# Instant search tree
 
 Table/List fast/instant search tree for searching as fast as possible and dramatic memory usage.
 
 # Speed
 
-Almost instant - depends only from chars count in string. Strings count doesnt affect to search speed.
+Almost instant - depends only from chars count in string. Items count doesn't affect to search speed.
 
 # When to use
 
